@@ -13,5 +13,5 @@
     "minimum-stability": "dev",
     "autoload": { },
     "target-dir": "",
-    "bin": ["selenium-server-standalone-2.45.0.jar"]
+    "bin": ["selenium-server-standalone-2.46.0.jar"]
 }
